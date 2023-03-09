@@ -1,0 +1,55 @@
+A- BİR JAVA PROJESİNİ GİT İLE İLİŞKİLENDİRİP GİTHUP'A YÜKLEMEK
+
+1. git init   				      => İlgili projeyi Git'e tanıtır.
+2. git add . 					=> Klasördeki tüm dosyaları localdeki repoya yükler.
+3. git commit -m "commit mesaj yazılır"   => Lokaldeki repoda bir versiyon oluşturmak için kullanılır
+
+	<<<Yukarıdaki 3 komut Local bilgisayarda yapılacak<<<
+
+
+4. git branch -M main
+5. git remote add origin https://github.com/canhsan/Githupnew-reposito.git
+6. git push -u origin main
+
+<<<Yukarıdaki 3 komut Githup sitesinde yapılacak<<<
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+B- HERHANGİ BİR DOSYAYI GİT İLE İLİŞKİLENDİRİP GİTHUP'A YÜKLEMEK
+
+1. git init   				      => İlgili projeyi Git'e tanıtır.
+2. git add . 					=> Klasördeki tüm dosyaları localdeki repoya yükler.
+3. git commit -m "commit mesaj yazılır"   => Lokaldeki repoda bir versiyon oluşturmak için kullanılırr.
+
+4. git branch -M main
+5. git remote add origin https://github.com/canhsan/dosyay-kleme.git
+6. git push -u origin main
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+   
+C- GİTHUP İLE İLİŞKİLENDİRİLMİŞ BİR PROJEDE YAPIPILAN BİR DEĞİŞKLİĞİN KAYDEDİLMESİ
+
+1. git add . 					=> Klasördeki tüm dosyaları localdeki repoya yükler.
+2. git commit -m "commit mesaj yazılır"   => Lokaldeki repoda bir versiyon oluşturmak için kullanılırr.
+3. git push                               => Dosyada yapılan değişikliği GİTHUP reposuna gönder.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+D- GİTHUP'TAN BİR PROJENİN LOCALDEKİ BİR BİLGİSAYARA ALINMASI
+
+1. Localde bir klasör belirle ve onu git ile ilİşkilendir.					
+2. git pull "İndirilecek GİTHUP PROJESİNİN LİNKİ"
+
+artık beğendiğiniz proje bilgisayarınıza indirildi.
+Şimdi GİTHUP'ta bir repo oluşturun.Ve bu klösörü GİTHUP'ta oluşturduğunu repoya yükleyin.
+
+
+
+
+
+
+
+
